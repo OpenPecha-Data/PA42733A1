@@ -138,3 +138,8 @@ source_metadata:
       parent: Vows & Commitments
 created_at: '2022-03-01T01:13:56.749984'
 last_modified_at: '2022-03-01T01:13:56.749986'
+statistics:
+  total_words: 57918
+  total_non_words: 5464
+quality:
+  non_words_ratio: 0.09
